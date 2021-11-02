@@ -1,0 +1,27 @@
+{
+  "name": "websocket-simple-chat",
+  "version": "1.0.0",
+  "description": "simple node.js websocket chat app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirexdoors/websocket-simple-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirexdoors/websocket-simple-chat/issues"
+  },
+  "homepage": "https://github.com/mirexdoors/websocket-simple-chat#readme",
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "ws": "^8.2.3"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^5.0.7"
+  }
+}
